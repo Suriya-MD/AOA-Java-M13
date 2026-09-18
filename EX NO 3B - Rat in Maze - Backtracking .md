@@ -1,5 +1,8 @@
 
 # EX 3B Rat in Maze- Backtracking 
+## Date: 20/08/2026
+## Name: SURIYA M
+## Reg No: 212223110055
 
 ## AIM:
 To write a Java program to for given constraints.
