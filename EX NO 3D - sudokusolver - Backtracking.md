@@ -1,5 +1,8 @@
 
 # EX 3D Sudoku solver - Backtracking.
+## Date: 20/08/2026
+## Name: SURIYA M
+## Reg No: 212223110055
 
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
